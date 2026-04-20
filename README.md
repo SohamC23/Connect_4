@@ -72,6 +72,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/SohamC23/Connect_4.git
 cd Connect_4
+```
 
 ## License
 
